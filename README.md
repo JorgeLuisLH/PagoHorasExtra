@@ -11,4 +11,4 @@
 
 Aplicacion en consola [pagos_horas.py](pagos_horas.py)
 Aplicacion de escritorio [pagos_horas_desk.py](pagos_horas_desk.py)
-Ejecutable de la Aplicacion de escritorio [pagos_horas_desk.exe](Ejecutable/pagos_horas_desk.exe)
+Ejecutable de la Aplicacion de escritorio [Ejecutable.zip](Ejecutable.zip)
